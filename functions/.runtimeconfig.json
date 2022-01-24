@@ -1,0 +1,18 @@
+{
+  "trello": {
+    "api_key": "TRELLO_API_KEY",
+    "access_token": "TRELLO_ACCESS_TOKEN",
+    "board_id": "TRELLO_BOARD_ID",
+    "list_id": "TRELLO_LIST_ID"
+  },
+  "oauth": {
+    "client_id": "GOOGLE_OAUTH_CLIENT_ID",
+    "client_secret": "GOOGLE_OAUTH_CLIENT_SECRET",
+    "redirect_uri": "http://localhost:3000",
+    "token_id": "FIRESTORE_DOCUMENT_ID"
+  },
+  "form": {
+    "form_id": "FORM_ID",
+    "watch_id": "FORM_WATCH_ID"
+  }
+}
